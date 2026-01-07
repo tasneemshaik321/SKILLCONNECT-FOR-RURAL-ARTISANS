@@ -1,4 +1,4 @@
-# ArtiZone - iTech HackFest 
+# SKILL CONNECT FOR RURAL ARTISANS
 <img src="https://forthebadge.com/images/badges/open-source.svg" />  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />  
 
 
